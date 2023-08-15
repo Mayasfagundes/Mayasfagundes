@@ -7,7 +7,7 @@
   
    
    # Sobre mim
-   <br>
+  <br>
   <br>
 
  
@@ -23,16 +23,14 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-
 
 
 
 Possuo habilidades interpessoais que me permitem trabalhar bem em equipe e comunicar ideias de forma clara e concisa. 
 Estou sempre em busca de desenvolvimento pessoal e do aprimoramento das minhas habilidades. Tenho grande entusiasmo pela programação e pelo seu poder criativo.
 Fique à vontade para entrar em contato comigo para discutir possíveis oportunidades de colaboração.
-  
+  <br>
+  <br>  
 
 
   
@@ -46,7 +44,8 @@ Fique à vontade para entrar em contato comigo para discutir possíveis oportuni
 
   </div>
 
-
+ <br>
+  <br>
 
  
    # Ferramentas
@@ -59,7 +58,8 @@ Fique à vontade para entrar em contato comigo para discutir possíveis oportuni
 
   </div>
   
-  #
+   <br>
+  <br>
 
   
   
@@ -72,7 +72,8 @@ Fique à vontade para entrar em contato comigo para discutir possíveis oportuni
 
 
 
-
+ <br>
+  <br>
 
   # Contato
   
