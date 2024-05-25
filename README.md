@@ -9,29 +9,14 @@
    # Sobre mim
   <br>
   <br>
+Olá! Me chamo Mayara e sou desenvolvedora de software com foco em Front-End. 
+Possuo familiaridade em aplicações web responsivas com JavaScript, HTML, CSS, TypeScript, React, Figma, Bootstrap, SEO, Design Responsivo, UX, Git e GitHub, Wordpress, SQL, Jira e Tello.
 
- 
-  * Possuo familiaridade com:
-  
-- HTML, CSS, JavaScript, Figma, Bootstrap. Atualmente, estou aprendendo Python.
+ Atuei por 12 anos na área de atendimento, suporte e rotinas administrativas. Essas experiências me proporcionaram habilidades interpessoais valiosas, que agora aplico no desenvolvimento de software para trabalhar bem em equipe e comunicar ideias de forma clara e concisa.
 
-- Utilização de Git e Github para controle de versionamento e colaboração em projetos.
+  Atualmente, estou cursando Engenharia de Software na Unicesumar, o que me permite aliar conhecimentos teóricos e práticos para aprimorar minhas habilidades como desenvolvedora. Tenho grande entusiasmo pela programação e pelo seu poder criativo, e estou sempre em busca de desenvolvimento pessoal e profissional.
 
-- Estou cursando Engenharia de Software na Unicesumar. 
-
-
-<br>
-<br>
-<br>
-
-
-
-Possuo habilidades interpessoais que me permitem trabalhar bem em equipe e comunicar ideias de forma clara e concisa. 
-Estou sempre em busca de desenvolvimento pessoal e do aprimoramento das minhas habilidades. Tenho grande entusiasmo pela programação e pelo seu poder criativo.
-Fique à vontade para entrar em contato comigo para discutir possíveis oportunidades de colaboração.
-  <br>
-  <br>  
-
+  Se você deseja discutir possíveis oportunidades de colaboração ou tem alguma pergunta, sinta-se à vontade para entrar em contato comigo.
 
   
   # Tecnologias
